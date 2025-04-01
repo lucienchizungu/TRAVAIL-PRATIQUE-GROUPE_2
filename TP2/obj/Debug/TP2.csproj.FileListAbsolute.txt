@@ -76,3 +76,6 @@ E:\groupe2\GROUPE_2\TP NUMERO2 GROUPE2\TP2\bin\Debug\System.Memory.xml
 E:\groupe2\GROUPE_2\TP NUMERO2 GROUPE2\TP2\bin\Debug\System.Numerics.Vectors.xml
 E:\groupe2\GROUPE_2\TP NUMERO2 GROUPE2\TP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\groupe2\GROUPE_2\TP NUMERO2 GROUPE2\TP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucien\Desktop\TRAVAIL-PRATIQUE-GROUPE_2\TP2\bin\Debug\TP2.exe.config
+C:\Users\lucien\Desktop\TRAVAIL-PRATIQUE-GROUPE_2\TP2\obj\Debug\TP2.exe
+C:\Users\lucien\Desktop\TRAVAIL-PRATIQUE-GROUPE_2\TP2\obj\Debug\TP2.pdb
