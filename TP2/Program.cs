@@ -19,8 +19,13 @@ namespace TP2
 
             Console.WriteLine("ABSTRACT CLASS");
             Console.WriteLine("===============\n");
+<<<<<<< HEAD
             Teacher t1 = new Teacher("amani", "ntingingwa", "22lsi620060");
             Student s1 = new Student("josue", "ntj", "22lsi75664");
+=======
+            Teacher t1 = new Teacher("AWEZAYE", "CHIZUNGU", "22LSILJ619977");
+            Student s1 = new Student("Liripa", "Kpak", "22lsi657744");
+>>>>>>> master
 
             t1.Add(2);
             s1.Add(2);
@@ -35,8 +40,8 @@ namespace TP2
             Console.WriteLine("INTERFACE ");
             Console.WriteLine("===============\n");
 
-            Interfaces.Teacher t2 = new Interfaces.Teacher("michek", "saba", "lkji");
-            Interfaces.Student s2 = new Interfaces.Student("mola", "mali", "22lsi65774");
+            Interfaces.Teacher t2 = new Interfaces.Teacher("Justine", "saba", "hhfydyd");
+            Interfaces.Student s2 = new Interfaces.Student("Jean", "mali", "22lsij65774");
 
             t2.Add(2);
             s2.Add(2);
